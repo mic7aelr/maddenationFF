@@ -1,0 +1,1102 @@
+[
+    {
+        "team": "49ers",
+        "name": "B.Aiyuk",
+        "fantasy_score": 5.9
+    },
+    {
+        "team": "49ers",
+        "name": "M.Stanton",
+        "fantasy_score": 16.3
+    },
+    {
+        "team": "49ers",
+        "name": "P.Teague",
+        "fantasy_score": 13.56
+    },
+    {
+        "team": "49ers",
+        "name": "D.London",
+        "fantasy_score": 3.3
+    },
+    {
+        "team": "49ers",
+        "name": "C.McCaffrey",
+        "fantasy_score": 18.4
+    },
+    {
+        "team": "49ers",
+        "name": "D.Jackson",
+        "fantasy_score": 14.5
+    },
+    {
+        "team": "Bears",
+        "name": "L.Jackson",
+        "fantasy_score": 10.74
+    },
+    {
+        "team": "Bears",
+        "name": "A.Lazard",
+        "fantasy_score": 8.7
+    },
+    {
+        "team": "Bears",
+        "name": "R.Kilgore",
+        "fantasy_score": 12.5
+    },
+    {
+        "team": "Bears",
+        "name": "J.Taylor",
+        "fantasy_score": 15.2
+    },
+    {
+        "team": "Bears",
+        "name": "T.Wooten",
+        "fantasy_score": 0.0
+    },
+    {
+        "team": "Bears",
+        "name": "D.Taylor",
+        "fantasy_score": 5.1
+    },
+    {
+        "team": "Bengals",
+        "name": "J.Burrow",
+        "fantasy_score": 26.4
+    },
+    {
+        "team": "Bengals",
+        "name": "J.Chase",
+        "fantasy_score": 28.0
+    },
+    {
+        "team": "Bengals",
+        "name": "B.Cooks",
+        "fantasy_score": 8.6
+    },
+    {
+        "team": "Bengals",
+        "name": "G.Daniels",
+        "fantasy_score": 8.7
+    },
+    {
+        "team": "Bengals",
+        "name": "T.Higgins",
+        "fantasy_score": 16.9
+    },
+    {
+        "team": "Bengals",
+        "name": "D.Wilford",
+        "fantasy_score": 18.7
+    },
+    {
+        "team": "Bengals",
+        "name": "O.Miller",
+        "fantasy_score": 7.6
+    },
+    {
+        "team": "Broncos",
+        "name": "A.Brown",
+        "fantasy_score": 13.0
+    },
+    {
+        "team": "Broncos",
+        "name": "G.Kittle",
+        "fantasy_score": 6.4
+    },
+    {
+        "team": "Broncos",
+        "name": "D.Moore",
+        "fantasy_score": 7.1
+    },
+    {
+        "team": "Broncos",
+        "name": "J.Loomis",
+        "fantasy_score": 4.28
+    },
+    {
+        "team": "Broncos",
+        "name": "C.Pamphile",
+        "fantasy_score": 3.4
+    },
+    {
+        "team": "Broncos",
+        "name": "J.Williams",
+        "fantasy_score": 12.2
+    },
+    {
+        "team": "Buccaneers",
+        "name": "C.Merritt",
+        "fantasy_score": 6.2
+    },
+    {
+        "team": "Buccaneers",
+        "name": "D.Njoku",
+        "fantasy_score": 0.0
+    },
+    {
+        "team": "Buccaneers",
+        "name": "D.Cartwright",
+        "fantasy_score": 19.6
+    },
+    {
+        "team": "Buccaneers",
+        "name": "T.Booth",
+        "fantasy_score": 4.9
+    },
+    {
+        "team": "Buccaneers",
+        "name": "L.Heard",
+        "fantasy_score": 11.9
+    },
+    {
+        "team": "Buccaneers",
+        "name": "B.Stinson",
+        "fantasy_score": 9.9
+    },
+    {
+        "team": "Cardinals",
+        "name": "T.Allgeier",
+        "fantasy_score": 3.8
+    },
+    {
+        "team": "Cardinals",
+        "name": "D.Andrews",
+        "fantasy_score": 6.4
+    },
+    {
+        "team": "Cardinals",
+        "name": "D.Bellinger",
+        "fantasy_score": 6.8
+    },
+    {
+        "team": "Cardinals",
+        "name": "C.Godwin",
+        "fantasy_score": 3.5
+    },
+    {
+        "team": "Cardinals",
+        "name": "T.Lance",
+        "fantasy_score": 2.16
+    },
+    {
+        "team": "Cardinals",
+        "name": "R.White",
+        "fantasy_score": 10.2
+    },
+    {
+        "team": "Cardinals",
+        "name": "O.Davis",
+        "fantasy_score": 5.7
+    },
+    {
+        "team": "Chargers",
+        "name": "S.Colbert",
+        "fantasy_score": 10.2
+    },
+    {
+        "team": "Chargers",
+        "name": "M.Brown",
+        "fantasy_score": 29.9
+    },
+    {
+        "team": "Chargers",
+        "name": "D.Cook",
+        "fantasy_score": 1.8
+    },
+    {
+        "team": "Chargers",
+        "name": "J.Grant",
+        "fantasy_score": 3.4
+    },
+    {
+        "team": "Chargers",
+        "name": "S.Harris",
+        "fantasy_score": 21.4
+    },
+    {
+        "team": "Chargers",
+        "name": "T.McBride",
+        "fantasy_score": 6.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "C.Woodard",
+        "fantasy_score": 21.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Davis",
+        "fantasy_score": 8.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Bradley",
+        "fantasy_score": 0.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Herbert",
+        "fantasy_score": 12.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Leonard",
+        "fantasy_score": 9.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Q.Johnston",
+        "fantasy_score": 3.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Williams",
+        "fantasy_score": 16.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "W.Bailey",
+        "fantasy_score": -0.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Badie",
+        "fantasy_score": 2.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Kelce",
+        "fantasy_score": 8.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "P.Mahomes",
+        "fantasy_score": 11.66
+    },
+    {
+        "team": "Unknown Team",
+        "name": "I.Pacheco",
+        "fantasy_score": 9.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Rice",
+        "fantasy_score": 8.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Q.Macklin",
+        "fantasy_score": 7.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.Toney",
+        "fantasy_score": 11.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Meriweather",
+        "fantasy_score": 10.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Shields",
+        "fantasy_score": 1.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Perkins",
+        "fantasy_score": 30.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.Juszczyk",
+        "fantasy_score": 1.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Flowers",
+        "fantasy_score": 4.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "C.Okonkwo",
+        "fantasy_score": 2.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Parish",
+        "fantasy_score": 0.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Purdy",
+        "fantasy_score": 20.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Crisp",
+        "fantasy_score": 25.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Henry",
+        "fantasy_score": 0.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Sanchez",
+        "fantasy_score": 12.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Jackson",
+        "fantasy_score": 3.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Cunningham",
+        "fantasy_score": -0.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Dotson",
+        "fantasy_score": 32.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "F.Young",
+        "fantasy_score": 21.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Howell",
+        "fantasy_score": 37.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Robinson Jr",
+        "fantasy_score": 0.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Washington",
+        "fantasy_score": 10.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Levens",
+        "fantasy_score": 6.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.Portis",
+        "fantasy_score": 3.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.McClendon",
+        "fantasy_score": 2.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Z.Jones",
+        "fantasy_score": 1.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "H.Luepke",
+        "fantasy_score": 7.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Mims Jr.",
+        "fantasy_score": 26.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Prescott",
+        "fantasy_score": 20.74
+    },
+    {
+        "team": "Unknown Team",
+        "name": "L.Schoonmaker",
+        "fantasy_score": 4.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Slayton",
+        "fantasy_score": 6.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Stevenson",
+        "fantasy_score": 10.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Vaughn",
+        "fantasy_score": 1.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Cooper",
+        "fantasy_score": 18.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Gibbs",
+        "fantasy_score": 10.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Hopkins",
+        "fantasy_score": 17.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Hurts",
+        "fantasy_score": 21.78
+    },
+    {
+        "team": "Unknown Team",
+        "name": "E.Enriquez",
+        "fantasy_score": 12.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Arthur",
+        "fantasy_score": 1.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Young",
+        "fantasy_score": 6.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Birmingham",
+        "fantasy_score": 2.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Christie",
+        "fantasy_score": 2.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.Pitts",
+        "fantasy_score": 35.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Ridder",
+        "fantasy_score": 18.76
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Robinson",
+        "fantasy_score": 7.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Carlson",
+        "fantasy_score": -0.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Arellanes",
+        "fantasy_score": 0.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Barkley",
+        "fantasy_score": 16.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Bateman",
+        "fantasy_score": 7.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "N.Mackey",
+        "fantasy_score": 4.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Metcalf",
+        "fantasy_score": 21.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Richardson",
+        "fantasy_score": 17.26
+    },
+    {
+        "team": "Unknown Team",
+        "name": "G.Valentine",
+        "fantasy_score": 14.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Bush",
+        "fantasy_score": 1.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Etienne Jr",
+        "fantasy_score": 5.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Lawrence",
+        "fantasy_score": 13.04
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Q.Stockton",
+        "fantasy_score": 4.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "E.Bowens",
+        "fantasy_score": 18.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Streeter",
+        "fantasy_score": 10.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Roach",
+        "fantasy_score": 7.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Jowers",
+        "fantasy_score": 8.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "I.Abanikanda",
+        "fantasy_score": 9.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Fields",
+        "fantasy_score": 9.92
+    },
+    {
+        "team": "Unknown Team",
+        "name": "F.German",
+        "fantasy_score": 7.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Meyers",
+        "fantasy_score": 5.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "E.Moore",
+        "fantasy_score": 6.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Okwuegbunam",
+        "fantasy_score": 10.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "G.Wilson",
+        "fantasy_score": 10.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Achane",
+        "fantasy_score": 16.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Powell",
+        "fantasy_score": 0.24
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Ekeler",
+        "fantasy_score": 1.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "H.Hooker",
+        "fantasy_score": -3.36
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.LaPorta",
+        "fantasy_score": 12.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.St. Brown",
+        "fantasy_score": 3.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Q.Watkins",
+        "fantasy_score": 12.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Q.Mann",
+        "fantasy_score": 13.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Chark Jr",
+        "fantasy_score": 4.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "C.Kirk",
+        "fantasy_score": 7.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Love",
+        "fantasy_score": 22.08
+    },
+    {
+        "team": "Unknown Team",
+        "name": "L.Musgrave",
+        "fantasy_score": 30.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Pierce",
+        "fantasy_score": 2.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Reed",
+        "fantasy_score": 19.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.McKee",
+        "fantasy_score": 9.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Hill",
+        "fantasy_score": 17.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Mingo",
+        "fantasy_score": 15.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "C.Stroud",
+        "fantasy_score": 16.56
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Waller",
+        "fantasy_score": 3.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Enriquez",
+        "fantasy_score": 4.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Atwell",
+        "fantasy_score": 3.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.McClain",
+        "fantasy_score": 10.14
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Gesicki",
+        "fantasy_score": 19.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Pollard",
+        "fantasy_score": 1.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Thornton",
+        "fantasy_score": 3.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "O.Mayo",
+        "fantasy_score": 11.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "F.Samuels",
+        "fantasy_score": 6.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Duggan",
+        "fantasy_score": 20.18
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Gray",
+        "fantasy_score": 5.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Jacobs",
+        "fantasy_score": 12.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Yates",
+        "fantasy_score": 25.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Mayer",
+        "fantasy_score": 10.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Thomas",
+        "fantasy_score": -0.02
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Brown",
+        "fantasy_score": 0.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Craig",
+        "fantasy_score": 1.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Wakefield",
+        "fantasy_score": 8.72
+    },
+    {
+        "team": "Unknown Team",
+        "name": "N.Chubb",
+        "fantasy_score": 6.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Gibson",
+        "fantasy_score": -0.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Goedert",
+        "fantasy_score": 11.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "C.Kupp",
+        "fantasy_score": 1.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "H.Rankin",
+        "fantasy_score": 10.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Pryor",
+        "fantasy_score": 20.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Andrews",
+        "fantasy_score": 21.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Bigsby",
+        "fantasy_score": 7.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Z.Flowers",
+        "fantasy_score": 4.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "A.Jones",
+        "fantasy_score": 7.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "O.Hall",
+        "fantasy_score": 1.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Pittman Jr",
+        "fantasy_score": 7.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Terry",
+        "fantasy_score": 14.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Q.Brooks",
+        "fantasy_score": 22.66
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Hewitt",
+        "fantasy_score": 4.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Worthy",
+        "fantasy_score": 10.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.Miller",
+        "fantasy_score": 0.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "C.Olave",
+        "fantasy_score": 12.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Thomas",
+        "fantasy_score": 4.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "M.Landry",
+        "fantasy_score": 14.58
+    },
+    {
+        "team": "Unknown Team",
+        "name": "R.Griffin",
+        "fantasy_score": 22.1
+    },
+    {
+        "team": "Unknown Team",
+        "name": "N.Fant",
+        "fantasy_score": 2.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Hyatt",
+        "fantasy_score": 4.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Jefferson",
+        "fantasy_score": 3.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Parham Jr",
+        "fantasy_score": 3.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Smith-Njigba",
+        "fantasy_score": 23.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "K.Walker III",
+        "fantasy_score": 17.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "Z.Wilson",
+        "fantasy_score": 7.36
+    },
+    {
+        "team": "Unknown Team",
+        "name": "E.Trent",
+        "fantasy_score": -1.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Hess",
+        "fantasy_score": 4.48
+    },
+    {
+        "team": "Unknown Team",
+        "name": "P.Freiermuth",
+        "fantasy_score": 13.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Sermon",
+        "fantasy_score": 9.84
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Yancy",
+        "fantasy_score": 4.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "G.Pickens",
+        "fantasy_score": 8.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Tucker",
+        "fantasy_score": 13.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "F.Edwards",
+        "fantasy_score": 4.1
+    },
+    {
+        "team": "Texans",
+        "name": "N.Harris",
+        "fantasy_score": 5.1
+    },
+    {
+        "team": "Texans",
+        "name": "J.Jeudy",
+        "fantasy_score": 19.9
+    },
+    {
+        "team": "Texans",
+        "name": "D.Smith",
+        "fantasy_score": 3.8
+    },
+    {
+        "team": "Texans",
+        "name": "J.Williams",
+        "fantasy_score": 47.5
+    },
+    {
+        "team": "Texans",
+        "name": "B.Young",
+        "fantasy_score": 29.4
+    },
+    {
+        "team": "Texans",
+        "name": "G.Baxter",
+        "fantasy_score": 9.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "I.Pearson",
+        "fantasy_score": 24.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Clark",
+        "fantasy_score": 7.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Henry",
+        "fantasy_score": 1.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Johnson",
+        "fantasy_score": 3.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "W.Levis",
+        "fantasy_score": 15.08
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.McDaniels",
+        "fantasy_score": 4.7
+    },
+    {
+        "team": "Unknown Team",
+        "name": "S.Miller",
+        "fantasy_score": 13.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Schultz",
+        "fantasy_score": 3.2
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Smith-Schuster",
+        "fantasy_score": 6.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Spears",
+        "fantasy_score": 1.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Tate",
+        "fantasy_score": 0.0
+    },
+    {
+        "team": "Unknown Team",
+        "name": "J.Addison",
+        "fantasy_score": 5.5
+    },
+    {
+        "team": "Unknown Team",
+        "name": "B.Hall",
+        "fantasy_score": 4.6
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.Hockenson",
+        "fantasy_score": 8.9
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Forbes",
+        "fantasy_score": 4.8
+    },
+    {
+        "team": "Unknown Team",
+        "name": "T.McLaurin",
+        "fantasy_score": 13.4
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Mooney",
+        "fantasy_score": 32.3
+    },
+    {
+        "team": "Unknown Team",
+        "name": "L.Tuttle",
+        "fantasy_score": 20.52
+    },
+    {
+        "team": "Unknown Team",
+        "name": "D.Goodwin",
+        "fantasy_score": 6.8
+    }
+]
