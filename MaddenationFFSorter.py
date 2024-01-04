@@ -94,9 +94,6 @@ for reg_key, reg_value in data.get("reg", {}).items():
                 all_players_data.append(player_name_team_score)
 
                 print(f"FullName: {full_name}, Fantasy score: {rounded_fantasy_score}, Team Name: {team_name}")
-                
-
-raw_all_players_data.sort(key=lambda x: x[team_name])
 
 file_name = "week_8_raw_stats.json"
 file_name_2 = "week_8_fantasy.json"
