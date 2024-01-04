@@ -77,10 +77,10 @@
     {
         "team_name": "Bills",
         "name": "J.Hill",
-        "week_9_fantasy_score": 0.0
+        "week_9_fantasy_score": "DNP"
     },
     {
-        "team_name": "Bills",
+        "team_name": "Falcons",
         "name": "J.Allen",
         "week_9_fantasy_score": 8.26
     },
@@ -140,127 +140,127 @@
         "week_9_fantasy_score": 0.4
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "E.Randall",
-        "week_9_fantasy_score": -1.0
+        "week_9_fantasy_score": "DNP"
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "C.Merritt",
         "week_9_fantasy_score": 9.2
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "D.Njoku",
         "week_9_fantasy_score": 6.7
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "D.Cartwright",
         "week_9_fantasy_score": 2.6
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "T.Booth",
         "week_9_fantasy_score": 13.08
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "L.Heard",
         "week_9_fantasy_score": 25.8
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "M.Johnson",
         "week_9_fantasy_score": 1.3
     },
     {
-        "team_name": "Broncos",
+        "team_name": "Browns",
         "name": "B.Stinson",
         "week_9_fantasy_score": 19.2
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "T.Allgeier",
         "week_9_fantasy_score": 4.3
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "D.Andrews",
-        "week_9_fantasy_score": 0.0
+        "week_9_fantasy_score": "DNP"
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "D.Bellinger",
         "week_9_fantasy_score": 6.5
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "M.Gallup",
         "week_9_fantasy_score": 2.0
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "C.Godwin",
         "week_9_fantasy_score": 6.8
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "T.Lance",
         "week_9_fantasy_score": 16.66
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "R.White",
         "week_9_fantasy_score": 2.1
     },
     {
-        "team_name": "Browns",
+        "team_name": "Broncos",
         "name": "O.Davis",
         "week_9_fantasy_score": 26.5
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "S.Colbert",
         "week_9_fantasy_score": 13.28
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "C.Austin III",
         "week_9_fantasy_score": 3.3
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "M.Brown",
         "week_9_fantasy_score": 14.0
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "D.Cook",
         "week_9_fantasy_score": 0.9
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "J.Grant",
         "week_9_fantasy_score": 3.8
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "M.Evans",
         "week_9_fantasy_score": 5.7
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "S.Harris",
         "week_9_fantasy_score": 12.6
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "T.McBride",
         "week_9_fantasy_score": 11.4
     },
     {
-        "team_name": "Buccaneers",
+        "team_name": "Cardinals",
         "name": "J.Franz",
         "week_9_fantasy_score": 1.96
     },
@@ -307,7 +307,7 @@
     {
         "team_name": "Chiefs",
         "name": "M.Mack",
-        "week_9_fantasy_score": -1.0
+        "week_9_fantasy_score": "DNP"
     },
     {
         "team_name": "Chiefs",
@@ -407,12 +407,12 @@
     {
         "team_name": "Commanders",
         "name": "B.Robinson Jr",
-        "week_9_fantasy_score": 0.0
+        "week_9_fantasy_score": "DNP"
     },
     {
         "team_name": "Commanders",
         "name": "K.Portis",
-        "week_9_fantasy_score": 0.0
+        "week_9_fantasy_score": "DNP"
     },
     {
         "team_name": "Cowboys",
@@ -882,7 +882,7 @@
     {
         "team_name": "Seahawks",
         "name": "E.Trent",
-        "week_9_fantasy_score": -1.0
+        "week_9_fantasy_score": "DNP"
     },
     {
         "team_name": "Steelers",
@@ -992,7 +992,7 @@
     {
         "team_name": "Titans",
         "name": "J.McDaniels",
-        "week_9_fantasy_score": 0.0
+        "week_9_fantasy_score": "DNP"
     },
     {
         "team_name": "Titans",

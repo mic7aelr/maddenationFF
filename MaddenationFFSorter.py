@@ -7,6 +7,7 @@ raw_all_players_data = []
 all_players_data = []
 week_8_fantasy_scores = []
 week_9_fantasy_scores = []
+desired_weeks = ["8", "9"]
 
 team_id_to_name = {
     "788267008": "49ers",
@@ -15,10 +16,10 @@ team_id_to_name = {
     "788267010": "Bills",
     "788267011": "Bills",
     "788267012": "Bills",
-    "788267013": "Broncos",
-    "788267014": "Browns",
-    "788267015": "Buccaneers",
-    "788267016": "Cardinals",
+    "788267013": "Browns",
+    "788267014": "Broncos",
+    "788267015": "Cardinals",
+    "788267016": "Buccaneers",
     "788267018": "Chargers",
     "788267019": "Chiefs",
     "788267020": "Colts",
@@ -48,7 +49,7 @@ team_id_to_name = {
 }
 
 for week_key, week_value in data.get("reg", {}).items():
-    if week_key not in ["8", "9"]:
+    if week_key not in desired_weeks:
         continue
 
     for team_id, team_stats in week_value.items():
@@ -102,9 +103,18 @@ for week_key, week_value in data.get("reg", {}).items():
                 raw_all_players_data.append(raw_player_data)
 
                 if week_key == "8":
-                    week_8_fantasy_scores.append(player_name_team_score)
+                    week_scores = week_8_fantasy_scores
                 elif week_key == "9":
-                    week_9_fantasy_scores.append(player_name_team_score)
+                    week_scores = week_9_fantasy_scores
+
+                # Check if any relevant stats are present for the player
+                if any([rec_yds, rec_catches, rec_tds, rush_att, rush_yds, rush_tds, pass_yds, pass_tds, pass_ints]):
+                    week_scores.append(player_name_team_score)
+                else:
+                    # Player did not play (DNP)
+                    player_name_team_score[f"week_{week_key}_fantasy_score"] = "DNP"
+                    week_scores.append(player_name_team_score)
+
 
 
 file_name = "week_8_9_raw_stats.json"
