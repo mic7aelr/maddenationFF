@@ -191,6 +191,9 @@ def merge_JsonFiles(filenames):
                 else:
                     result[key].update(entry)
 
+    for key, entry in result.items():
+        entry.pop('player_id', None)
+
     result_list = list(result.values())
 
     with open('combined_weeks.json', 'w') as output_file:
