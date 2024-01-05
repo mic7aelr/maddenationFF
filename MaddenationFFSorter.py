@@ -3,17 +3,25 @@ import json
 with open("stats.json", "r") as f:
     data = json.load(f)
 
+with open("stats.json", "r") as f:
+    stats_data = json.load(f)
+
 raw_all_players_data = []
 all_players_data = []
 week_8_fantasy_scores = []
 week_9_fantasy_scores = []
-desired_weeks = ["8", "9"]
+week_10_fantasy_scores = []
+desired_weeks = ["8", "9", "10"]
+
+
+def has_offensive_stats(player_stats):
+    offensive_stat_keys = ["recYds", "recCatches", "recTDs", "rushAtt", "rushYds", "rushTDs", "passYds", "passTDs", "passInts", "recDrops"]
+    return any(key in player_stats for key in offensive_stat_keys)
 
 team_id_to_name = {
     "788267008": "49ers",
     "788267009": "Bears",
     "788267010": "Bengals",
-    "788267010": "Bills",
     "788267011": "Bills",
     "788267012": "Bills",
     "788267013": "Browns",
@@ -51,10 +59,13 @@ team_id_to_name = {
 for week_key, week_value in data.get("reg", {}).items():
     if week_key not in desired_weeks:
         continue
+    week_team_ids = set()
 
     for team_id, team_stats in week_value.items():
         for player_id, player_stats in team_stats.get("player-stats", {}).items():
             if any(key in player_stats for key in ["recYds", "rushYds", "passYds"]):
+                roster_id = int(player_stats.get("rosterId", "0"))
+
                 rec_yds = int(player_stats.get("recYds", "0"))
                 rec_tds = int(player_stats.get("recTDs", "0"))
                 rec_catches = int(player_stats.get("recCatches", "0"))
@@ -76,6 +87,7 @@ for week_key, week_value in data.get("reg", {}).items():
 
                 team_name = team_id_to_name.get(team_id, "Unknown Team")
 
+                """
                 raw_player_data = {
                     "team": team_name,
                     "name": full_name,
@@ -93,50 +105,71 @@ for week_key, week_value in data.get("reg", {}).items():
                     "teamID": team_id,
                     "week": week_key
                 }
-
+                """
+                
                 player_name_team_score = {
                     "team_name": team_name,
                     "name": full_name,
                     f"week_{week_key}_fantasy_score": rounded_fantasy_score
                 }
 
-                raw_all_players_data.append(raw_player_data)
+                # raw_all_players_data.append(raw_player_data)
 
                 if week_key == "8":
                     week_scores = week_8_fantasy_scores
                 elif week_key == "9":
                     week_scores = week_9_fantasy_scores
+                elif week_key == "10":
+                    week_scores = week_10_fantasy_scores
 
-                # Check if any relevant stats are present for the player
-                if any([rec_yds, rec_catches, rec_tds, rush_att, rush_yds, rush_tds, pass_yds, pass_tds, pass_ints]):
-                    week_scores.append(player_name_team_score)
+                if any([rec_yds, rec_catches, rec_tds, rush_att, rush_yds, rush_tds, pass_yds, pass_tds, pass_ints, roster_id]):
+                    player_name_team_score[f"week_{week_key}_fantasy_score"] = rounded_fantasy_score
                 else:
-                    # Player did not play (DNP)
-                    player_name_team_score[f"week_{week_key}_fantasy_score"] = "DNP"
-                    week_scores.append(player_name_team_score)
+                    player_name_team_score[f"week_{week_key}_fantasy_score"] = 0.0
+
+                week_scores.append(player_name_team_score)
+
+                """
+                for player_data in raw_all_players_data:
+                    name = player_data.get("name")
+                    for week_key in desired_weeks:
+                        week_scores = week_8_fantasy_scores if week_key == "8" else week_9_fantasy_scores
+                        if name not in [player_data_week.get("name") for player_data_week in week_scores]:
+                            player_data[f"week_{week_key}_fantasy_score"] = "DNP"
+                """
 
 
 
-file_name = "week_8_9_raw_stats.json"
+# file_name = "week_8_9_raw_stats.json"
 file_name_8 = "week_8_fantasy.json"
 file_name_9 = "week_9_fantasy.json"
+file_name_10 = "week_10_fantasy.json"
 
+"""
 with open(file_name, "w") as json_file:
     json.dump(raw_all_players_data, json_file, indent=4)
 
 print(f"JSON data has been written to {file_name}")
+"""
 
 with open(file_name_8, "w") as json_file:
     json.dump(week_8_fantasy_scores, json_file, indent=4)
 
 print(f"JSON data has been written to {file_name_8}")
 
+
 with open(file_name_9, "w") as json_file:
     json.dump(week_9_fantasy_scores, json_file, indent=4)
 
 print(f"JSON data has been written to {file_name_9}")
 
-files = ['week_8_fantasy.json', 'week_9_fantasy.json']
+
+with open(file_name_10, "w") as json_file:
+    json.dump(week_10_fantasy_scores, json_file, indent=4)
+
+print(f"JSON data has been written to {file_name_10}")
+
+files = ['week_8_fantasy.json', 'week_9_fantasy.json', 'week_10_fantasy.json']
 
 def merge_JsonFiles(filenames):
     result = {}
@@ -156,5 +189,7 @@ def merge_JsonFiles(filenames):
 
     with open('combined_weeks.json', 'w') as output_file:
         json.dump(result_list, output_file, indent=4)
+
+    print(f"JSON data has been written to combined_stats.json")
 
 merge_JsonFiles(files)

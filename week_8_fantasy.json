@@ -52,7 +52,7 @@
     {
         "team_name": "Bears",
         "name": "T.Wooten",
-        "week_8_fantasy_score": "DNP"
+        "week_8_fantasy_score": 0.0
     },
     {
         "team_name": "Bears",
@@ -60,37 +60,37 @@
         "week_8_fantasy_score": 5.1
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "J.Burrow",
         "week_8_fantasy_score": 26.4
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "J.Chase",
         "week_8_fantasy_score": 28.0
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "B.Cooks",
         "week_8_fantasy_score": 8.6
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "G.Daniels",
         "week_8_fantasy_score": 8.7
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "T.Higgins",
         "week_8_fantasy_score": 16.9
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "D.Wilford",
         "week_8_fantasy_score": 18.7
     },
     {
-        "team_name": "Bills",
+        "team_name": "Bengals",
         "name": "O.Miller",
         "week_8_fantasy_score": 7.6
     },
@@ -132,7 +132,7 @@
     {
         "team_name": "Browns",
         "name": "D.Njoku",
-        "week_8_fantasy_score": "DNP"
+        "week_8_fantasy_score": 0.0
     },
     {
         "team_name": "Browns",
@@ -327,7 +327,7 @@
     {
         "team_name": "Colts",
         "name": "D.Parish",
-        "week_8_fantasy_score": "DNP"
+        "week_8_fantasy_score": 0.0
     },
     {
         "team_name": "Colts",
@@ -342,7 +342,7 @@
     {
         "team_name": "Colts",
         "name": "D.Henry",
-        "week_8_fantasy_score": "DNP"
+        "week_8_fantasy_score": 0.0
     },
     {
         "team_name": "Commanders",
@@ -937,7 +937,7 @@
     {
         "team_name": "Seahawks",
         "name": "E.Trent",
-        "week_8_fantasy_score": "DNP"
+        "week_8_fantasy_score": -1.0
     },
     {
         "team_name": "Seahawks",
