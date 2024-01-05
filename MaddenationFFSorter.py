@@ -108,6 +108,7 @@ for week_key, week_value in data.get("reg", {}).items():
                 """
                 
                 player_name_team_score = {
+                    "player_id": roster_id,
                     "team_name": team_name,
                     "name": full_name,
                     f"week_{week_key}_fantasy_score": rounded_fantasy_score
@@ -180,10 +181,15 @@ def merge_JsonFiles(filenames):
             
             for entry in data:
                 name = entry.get("name")
-                if name not in result:
-                    result[name] = entry
+                player_id = entry.get("player_id")  # Use a unique identifier
+
+                # Use a combination of name and player_id as the key
+                key = (name, player_id)
+
+                if key not in result:
+                    result[key] = entry
                 else:
-                    result[name].update(entry)
+                    result[key].update(entry)
 
     result_list = list(result.values())
 
